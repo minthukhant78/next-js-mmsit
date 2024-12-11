@@ -22,8 +22,11 @@ export default function Navbar() {
           <Link href="/shop" className="text-white hover:text-gray-300">
             Shop
           </Link>
-          <Link href="/cart" className="text-white hover:text-gray-300">
+          <Link href="/cart" className="text-white  hover:text-gray-300">
             Cart
+          </Link>
+          <Link href="/faq" className="text-white hover:text-gray-300">
+            FAQ
           </Link>
         </div>
 
